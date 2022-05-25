@@ -1,0 +1,45 @@
+*{
+    font-family: 'Noto Serif', serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Roboto Slab', serif;
+color: #ffffff;
+font-family: 'Shadows Into Light', cursive;
+}
+
+body{
+    margin: 10px;
+    padding: 0;
+    text-align: center;
+    background: #29347B ;
+    
+
+}
+
+#conteneur{
+    width: 770px; 
+    margin: 0 auto;
+    
+    
+    
+ }
+
+
+ h3{
+    font-size: 3em;
+    
+    
+ } 
+
+
+ .chat{
+    height: 35px;
+    
+ }
+
+
+
+.gta{
+    display: flex;
+    justify-content: space-around;
+   
+}
